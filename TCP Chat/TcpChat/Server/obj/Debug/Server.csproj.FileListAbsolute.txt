@@ -1,0 +1,14 @@
+C:\Users\simon\Desktop\TcpCHat\Server\bin\Debug\Server.exe.config
+C:\Users\simon\Desktop\TcpCHat\Server\bin\Debug\Server.exe
+C:\Users\simon\Desktop\TcpCHat\Server\bin\Debug\Server.pdb
+C:\Users\simon\Desktop\TcpCHat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\simon\Desktop\TcpCHat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\TcpCHat\Server\obj\Debug\Server.exe
+C:\Users\simon\Desktop\TcpCHat\Server\obj\Debug\Server.pdb
+C:\Users\simon\Desktop\GitHub Stuff\TCP Chat\TcpChat\Server\bin\Debug\Server.exe.config
+C:\Users\simon\Desktop\GitHub Stuff\TCP Chat\TcpChat\Server\bin\Debug\Server.exe
+C:\Users\simon\Desktop\GitHub Stuff\TCP Chat\TcpChat\Server\bin\Debug\Server.pdb
+C:\Users\simon\Desktop\GitHub Stuff\TCP Chat\TcpChat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\simon\Desktop\GitHub Stuff\TCP Chat\TcpChat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\GitHub Stuff\TCP Chat\TcpChat\Server\obj\Debug\Server.exe
+C:\Users\simon\Desktop\GitHub Stuff\TCP Chat\TcpChat\Server\obj\Debug\Server.pdb

@@ -1,0 +1,7 @@
+C:\Users\simon\Desktop\TcpCHat\Client\bin\Debug\Client.exe.config
+C:\Users\simon\Desktop\TcpCHat\Client\bin\Debug\Client.exe
+C:\Users\simon\Desktop\TcpCHat\Client\bin\Debug\Client.pdb
+C:\Users\simon\Desktop\TcpCHat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\TcpCHat\Client\obj\Debug\Client.exe
+C:\Users\simon\Desktop\TcpCHat\Client\obj\Debug\Client.pdb
+C:\Users\simon\Desktop\TcpCHat\Client\obj\Debug\Client.csprojAssemblyReference.cache
